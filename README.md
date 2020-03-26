@@ -1,2 +1,3 @@
 # kityformula-tinymce
-tinymce编辑框使用kityformula
+tinymce编辑器使用百度的kityformula函数编辑器
+plugin.min.js嵌入iframe，生成图片传递给tinymce编辑器
